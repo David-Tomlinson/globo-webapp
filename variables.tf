@@ -42,7 +42,7 @@ variable "tfe_organization" {
   description = "(Required) Name of TFC organization."
 }
 
-variable "tfe_workspcae_name" {
+variable "tfe_workspace_name" {
   type        = string
   description = "(Required) Name of networking workspace to get information."
 }
